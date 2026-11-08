@@ -13,3 +13,4 @@ Ouvrir [http://localhost:5010](http://localhost:5010). La démo démarre en mode
 Marketplace et les MFE Cart/Account peuvent aussi être lancés seuls : `npm run dev --workspace=marketplace`, `npm run dev --workspace=cart` ou `npm run dev --workspace=account`.
 
 # rex-mfe
+# rex-mfe
